@@ -1,10 +1,11 @@
 # stickLabs.io
-## An Open Source Interface for
-## Access Control Systems
 
 ![sticker lock](stickerLock_access_control_system.jpg?raw=true "sticker lock access system")
 
-stickLabs.io manufactures **sticker locks** that unlock using NFC stickers.
+## An Open Source Interface for Access Control Systems
+
+[stickLabs.io](https://www.stickLabs.io/)
+manufactures **sticker locks** that unlock using NFC stickers.
 Adding and removing access to the lock is a 3-step process:
 
 Add access:
@@ -36,7 +37,9 @@ administrative interface.
 
 ## An Open Source Interface for 3rd-party Access Control Systems
 
-Out-of-the-box **sticker locks** from stickLabs.io are a great solution for
+Out-of-the-box **sticker locks** from
+[stickLabs.io](https://www.stickLabs.io/)
+are a great solution for
 interior access control for small and medium-sized businesses.  Most large
 businesses want the ability to integrate these locks into their existing
 access control systems.  The code in this repository allows for such
