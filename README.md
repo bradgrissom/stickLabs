@@ -1,19 +1,21 @@
-# stickLabs.io - An Open Source Interface for Access Control Systems
+# stickLabs.io
+## An Open Source Interface for
+## Access Control Systems
 
 ![sticker lock](stickerLock_access_control_system.jpg?raw=true "sticker lock access system")
 
 stickLabs.io manufactures **sticker locks** that unlock using NFC stickers.
 Adding and removing access to the lock is a 3-step process:
 
-    - Add access:
-        - [x] Hold up Master stick
-        - [x] Hold up Add stick
-        - [x] Hold up NFC sticker
+Add access:
+- [x] Hold up Master stick
+- [x] Hold up Add stick
+- [x] Hold up NFC sticker
 
-    - Remove access:
-        - [x] Hold up Master stick
-        - [x] Hold up Remove stick
-        - [x] Hold up NFC sticker
+Remove access:
+- [x] Hold up Master stick
+- [x] Hold up Remove stick
+- [x] Hold up NFC sticker
 
 Each **user** sticker has an associated **admin** sticker on a card.  The **admin**
 card allows access to be added or removed without the **user** sticker.
@@ -22,6 +24,7 @@ card allows access to be added or removed without the **user** sticker.
 
 The first question I get when introducing this product to people is:
 > That is so cool, did you file a patent?
+
 > No, its obvious.
 
 ### Patentability: The Nonobviousness Requirement of 35 USC 103
@@ -39,11 +42,11 @@ businesses want the ability to integrate these locks into their existing
 access control systems.  The code in this repository allows for such
 integration, including:
 
-    - Read NFC tags into a mobile app
-    - Write NFC admin tags
-    - Write NFC function tags
-    - Use a cloud-based or app-based database to create a **USB** NFC tag
-      to paste into any lock.
+- Read NFC tags into a mobile app
+- Write NFC admin tags
+- Write NFC function tags
+- Use a cloud-based or app-based database to create a **USB** NFC tag
+  to paste into any lock.
 
 ## Contact Us
 
